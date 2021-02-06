@@ -1,4 +1,4 @@
-# TAnalysis of Climate Change Tweets using Topic Modeling
+# Analysis of Climate Change Tweets using Topic Modeling
 Final Thesis of Masters for Statistics and Data Science 
 
 This github is for coding purposes of the master thesis assigment. R and Python was used for this study.
