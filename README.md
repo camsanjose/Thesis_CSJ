@@ -27,8 +27,22 @@ The packages used in Python are:
 * `numpy` : https://numpy.org/
 * `emoji`
 * `regex`
-* 
-
+* `matplotlib.pyplot`
+* `spacy`
+* `gensim`
+* `pyLDAvis.gensim`
+* `Tokenizer` from `spacy.tokenizer`
+* `Dictionary` from `gensim.corpora`
+* `models` from `gensim`
+* `LdaMulticore` from `gensim.models.ldamulticore`
+* `CoherenceModel` from `gensim.parsing.coherencemodel`
+* `STOPWORDS` from `gensim.parsing.preprocessing`
+* `LatentDirichletAllocation` and `TruncatedSVD` from `sklearn.decomposition`
+* `CountVectorizer` and `TfidVectorizer` from `sklearn.feature_extraction.text`
+* `nltk`
+* `word_tokenize` from `nltk.tokenize`
+* `SentimentIntensityAnalyzer` from `vaderSentiment.vaderSentiment`
+* `brokenaxes`
 
 
 
