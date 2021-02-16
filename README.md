@@ -43,8 +43,8 @@ The packages used in Python are:
 * `word_tokenize` from `nltk.tokenize`: https://www.nltk.org/api/nltk.tokenize.html
 * `SentimentIntensityAnalyzer` from `vaderSentiment.vaderSentiment`: https://pypi.org/project/vaderSentiment/
 * `brokenaxes`: https://pypi.org/project/brokenaxes/
+* `twarc` : https://github.com/DocNow/twarc
 
-
-
+The dataset is found at Harvard Dataver in the link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QCCUU. 
 
 
